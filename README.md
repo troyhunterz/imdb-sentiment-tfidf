@@ -5,7 +5,7 @@ This project performs binary sentiment classification (positive/negative) on IMD
 - [IMDB Movie Reviews](https://github.com/troyhunterz/imdb-moviereviews/dataset)
 - Labels:
   - `reviews` - raw movie review text
-  - `sentiment` - label (`positive` or `negative`)
+  - `sentiment` - label (`positive` | `negative`)
 
 ## 📚 Technologies & Libraries
 - Python 3.12.4
